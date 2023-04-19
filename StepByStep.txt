@@ -1,0 +1,13 @@
+installar python
+https://www.python.org/downloads/
+
+caso que no sea reconocido PIP
+https://dicasdepython.com.br/resolvido-pip-nao-e-reconhecido-como-um-comando-interno/
+
+installar selenium
+https://selenium-python.readthedocs.io/installation.html#installing-from-git-sources
+pip install selenium
+
+installar webDriver
+https://pypi.org/project/webdriver-manager/
+pip install webdriver-manager
